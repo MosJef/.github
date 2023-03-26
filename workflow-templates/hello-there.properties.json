@@ -1,6 +1,7 @@
 {
     "name": "GECT-B Hello world workflow",
     "description": "This is a hello world workflow template.",
+    "iconName": "example-icon",
     "categories": [
         "Python"
     ]
